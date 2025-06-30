@@ -1,0 +1,13 @@
+-BEGIN HEADER-,,,,,,,,,,,,,,
+NASA/POWER Source Native Resolution Monthly and Annual ,,,,,,,,,,,,,,
+Dates (month/day/year): 01/01/2023 through 12/31/2025 in LST,,,,,,,,,,,,,,
+Location: Latitude  27.7316   Longitude 85.2526 ,,,,,,,,,,,,,,
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 776.63 meters,,,,,,,,,,,,,,
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 ,,,,,,,,,,,,,,
+Parameter(s): ,,,,,,,,,,,,,,
+PRECTOTCORR_SUM     MERRA-2 Precipitation Corrected Sum (mm/day) ,,,,,,,,,,,,,,
+-END HEADER-,,,,,,,,,,,,,,
+PARAMETER,YEAR,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+PRECTOTCORR_SUM,2023,0,4.96,50.42,35.88,87.25,122.14,399.75,437.9,161.73,86.69,0.11,2.34,1389.17
+PRECTOTCORR_SUM,2024,0,3.62,46.28,2.1,91.35,312.99,499.2,270.02,366.23,32.04,0.34,0,1624.17
+PRECTOTCORR_SUM,2025,0.43,1.31,80.61,61.32,-999,-999,-999,-999,-999,-999,-999,-999,-999
